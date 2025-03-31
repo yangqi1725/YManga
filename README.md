@@ -1,3 +1,3 @@
 # YManga
 
-to：https://github.com/DUTIR-Emotion-Group/CCAC2025-task3
+TO: https://github.com/DUTIR-Emotion-Group/CCAC2025-task3
